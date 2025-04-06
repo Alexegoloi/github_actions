@@ -1,3 +1,4 @@
+run: echo "Hello world"
 name: Shell commands
 on: [push]
 jobs:
